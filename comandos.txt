@@ -1,0 +1,5 @@
+npm install -g typescript
+
+tsc "nome do arquivo" = isso gera o javascript
+
+para rodar  = node "nome do arquivo".js
