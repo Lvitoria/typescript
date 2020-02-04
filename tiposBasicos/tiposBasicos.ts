@@ -18,7 +18,7 @@ console.log(_name)
 let array  : string[] = ['a', 'b', 'c']
 let arrray : Array<string> = ['a', 'b', 'c']
 
-
+ 
 //enum
 enum estado_civil {'solteiro' = 'solteiro', 'casado' = 'casado', 'divorciado'= 'divorciado'}
 
